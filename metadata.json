@@ -1,5 +1,5 @@
 {
-  "name": "PaperHumanizer",
+  "name": "paper_humanizer",
   "description": "An academic text humanizer and rephrasing tool designed to lower AI detection scores and improve scholarly tone using Gemini.",
   "requestFramePermissions": []
 }
